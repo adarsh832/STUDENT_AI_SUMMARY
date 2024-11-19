@@ -2,6 +2,8 @@
 
 CodeBuddy is an AI-powered study assistant specifically designed for computer engineering students. It helps you understand complex concepts, analyze study materials, and improve your programming skills.
 
+You can change the characters of the AI from index.py line 47
+
 ## Features 🌟
 
 - **Interactive Chat Interface**: Ask questions and get detailed explanations
